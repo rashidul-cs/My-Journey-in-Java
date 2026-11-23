@@ -1,5 +1,5 @@
 
-import java.util.Scanner;  //we can also write here [ import java.util.Scanner; ]
+import java.util.Scanner;  //we can also write here [ import java.util.*; ]
 public class Main{
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
